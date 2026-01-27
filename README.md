@@ -4,8 +4,6 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 🏢 Company: https://okike-solutions.com/
 
-## 🏷️ Badges
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,6 +47,11 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 I like clean code, bold ideas, and products that feel like magic.
 If that sounds like your vibe, let’s build something cool.
+
+## 🤝 Connect
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NickelanddimeO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugochukwu-uwakwe/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okikeSolutions)
 
 <!--
 Tips:
