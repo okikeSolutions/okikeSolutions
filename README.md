@@ -31,9 +31,12 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 ## 🚀 Active projects
 
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
-- **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 - **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic Austrian break calculation plus Excel/PDF export (Expo + SQLite + Swift widgets).
 - **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
+
+## 🤌 Inactive projects
+
+- **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 
 ## 🧪 Fun Zone
 
