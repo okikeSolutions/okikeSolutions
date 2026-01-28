@@ -10,6 +10,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-6C47FF?style=for-the-badge&logo=convex&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ## ⚡ Quick Bits
@@ -24,18 +25,20 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 - **Languages:** TypeScript, JavaScript
 - **Web:** React, Next.js, Tailwind CSS, MDX
-- **Mobile:** Expo, React Native, NativeWind
-- **Backend/Infra:** Convex, Resend, Polar
+- **Mobile:** Expo, React Native, SwiftUI, NativeWind
+- **Backend/Infra:** Convex, Supabase, Resend, Polar
+- **Analytics:** Google Analytics, Sentry, Posthog, Datafast, Axiom
 - **Tooling:** Bun, Turborepo, ESLint, Prettier
 
 ## 🚀 Active projects
 
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
-- **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic Austrian break calculation plus Excel/PDF export (Expo + SQLite + Swift widgets).
+- **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Expo + SQLite + Swift widgets).
 - **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
 
 ## 🤌 Inactive projects
 
+- **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Supabase).
 - **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 
 ## 🧪 Fun Zone
@@ -48,10 +51,15 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ### ✨ A tiny manifesto
 
-I like clean code, bold ideas, and products that feel like magic.
-If that sounds like your vibe, let’s build something cool.
+> I like clean code, bold ideas, and products that feel like magic.  
+> If that sounds like your vibe, let’s build something cool.
+
+## 📝 Latest blog posts
+
+- **[Unified observability package](https://okike-solutions.com/blog/unified-observability-package)** — 6.1.2026
 
 ## 🤝 Connect
+
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NickelanddimeO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugochukwu-uwakwe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okikeSolutions)
