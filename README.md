@@ -32,10 +32,10 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ## 🚀 Active projects
 
-- **[guerillaglass](https://github.com/okikeSolutions/guerillaglass)** - The native, chaotic-fast "Screen Studio" alternative for macOS. Built with Swift and SwiftUI.
+- **[Guerilla Glass](https://github.com/okikeSolutions/guerillaglass)** - The native, chaotic-fast "Screen Studio" alternative for macOS. Built with Swift and SwiftUI.
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
 - **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Next.js + Expo + SQLite + Convex + Swift widgets).
-- **[Arbeo](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
+- **[Metabolic Dungeon](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
 
 
 ## 🤌 Inactive projects
