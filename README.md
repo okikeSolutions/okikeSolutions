@@ -6,10 +6,10 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-6C47FF?style=for-the-badge&logo=convex&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 
@@ -32,12 +32,15 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ## 🚀 Active projects
 
+- **[guerillaglass](https://github.com/okikeSolutions/guerillaglass)** - The native, chaotic-fast "Screen Studio" alternative for macOS. Built with Swift and SwiftUI.
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
-- **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Expo + SQLite + Swift widgets).
-- **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
+- **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Next.js + Expo + SQLite + Convex + Swift widgets).
+- **[Arbeo](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
+
 
 ## 🤌 Inactive projects
 
+- **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
 - **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Supabase).
 - **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 
