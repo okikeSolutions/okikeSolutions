@@ -15,7 +15,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ## ⚡ Quick Bits
 
-- 🧭 Currently: Building cross-platform products with Next.js + Expo + Convex (Plan2Meal, Arbeo, Subwatch).
+- 🧭 Currently: Building cross-platform products with Next.js + Expo + Convex (Guerilla Glass, Plan2Meal, Arbeo, Subwatch).
 - 🧪 Learning: Better onboarding, retention, and product analytics for consumer apps.
 - 🤝 Open to: Collabs on web/mobile products, developer tooling, and rapid experiments.
 - 💬 Ask me about: Expo, Next.js, Convex, Turborepo, and shipping one codebase across platforms.
