@@ -33,6 +33,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 ## 🚀 Active projects
 
 - **[Guerilla Glass](https://github.com/okikeSolutions/guerillaglass)** - Open-source cross-platform creator studio. Electrobun + Vite + Tanstack Query/Router/Pacer/Hotkeys + Swift + Rust.
+- **[Patchplane](https://github.com/okikeSolutions/patchplane)** - AI change control plane for coordinating agents and humans. Electrobun + Vite + Pi + Effect + Convex
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
 - **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Next.js + Expo + SQLite + Convex + Swift widgets).
 - **[Metabolic Dungeon](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
