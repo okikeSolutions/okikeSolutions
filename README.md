@@ -25,10 +25,10 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 - **Languages:** TypeScript, JavaScript
 - **Web:** React, Next.js, Tailwind CSS, MDX
-- **Mobile:** Expo, React Native, SwiftUI, NativeWind
+- **Mobile:** Expo, React Native, SwiftUI, NativeWind/Uniwind
 - **Backend/Infra:** Effect, Convex, Supabase, Resend, Polar
 - **Analytics:** Google Analytics, Sentry, Posthog, Datafast, Axiom
-- **Tooling:** Bun, Turborepo, ESLint, Prettier
+- **Tooling:** Bun, Turborepo, Oxlint, Oxfmt, ESLint, Prettier
 
 ## 🚀 Active projects
 
@@ -36,12 +36,12 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 - **[Patchplane](https://github.com/okikeSolutions/patchplane)** - AI change control plane for coordinating agents and humans. Electrobun + Vite + Pi + Effect + Convex
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
 - **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Next.js + Expo + SQLite + Convex + Swift widgets).
-- **[Metabolic Dungeon](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
 
 
 ## 🤌 Inactive projects
 
-- **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
+- **[Metabolic Dungeon](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
+- **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex + Polar).
 - **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Convex).
 - **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 
@@ -56,7 +56,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 ### ✨ A tiny manifesto
 
 > I like clean code, bold ideas, and products that feel like magic.  
-> If that sounds like your vibe, let’s build something cool.
+> If that sounds like your vibe, let’s build something amazing.
 
 ## 📝 Latest blog posts
 
