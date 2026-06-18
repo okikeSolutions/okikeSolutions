@@ -26,13 +26,13 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 - **Languages:** TypeScript, JavaScript
 - **Web:** React, Next.js, Tailwind CSS, MDX
 - **Mobile:** Expo, React Native, SwiftUI, NativeWind
-- **Backend/Infra:** Convex, Supabase, Resend, Polar
+- **Backend/Infra:** Effect, Convex, Supabase, Resend, Polar
 - **Analytics:** Google Analytics, Sentry, Posthog, Datafast, Axiom
 - **Tooling:** Bun, Turborepo, ESLint, Prettier
 
 ## 🚀 Active projects
 
-- **[Guerilla Glass](https://github.com/okikeSolutions/guerillaglass)** - Open-source cross-platform creator studio. Electrobun + Vite + Tanstack Query/Router/Pacer/Hotkeys + Swift + Rust.
+- **[Guerilla Glass](https://github.com/okikeSolutions/guerillaglass)** - Open-source cross-platform creator studio. Electrobun + Vite + Effect + Tanstack Query/Router/Pacer/Hotkeys + Swift + Rust.
 - **[Patchplane](https://github.com/okikeSolutions/patchplane)** - AI change control plane for coordinating agents and humans. Electrobun + Vite + Pi + Effect + Convex
 - **[Plan2Meal](https://plan2meal.com)** - Cross-platform recipe manager that captures recipes from any URL and syncs across devices (Next.js + Expo + Convex).
 - **[Arbeo](https://arbeo.app)** - iOS time-tracking app with automatic break calculation plus Excel/PDF export (Next.js + Expo + SQLite + Convex + Swift widgets).
@@ -42,7 +42,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 ## 🤌 Inactive projects
 
 - **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex).
-- **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Supabase).
+- **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Convex).
 - **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
 
 ## 🧪 Fun Zone
