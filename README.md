@@ -40,7 +40,7 @@ Welcome to my little corner of GitHub — I build things, break things, then bui
 
 ## 🤌 Inactive projects
 
-- **[Metabolic Dungeon](https://metabolicdungeon.com)** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
+- **Metabolic Dungeon** - Pixel-art RPG health tracker. Offline-first iOS app (Next.js + Expo + SQLite + Convex)
 - **[Subwatch](https://subwatch.app)** - Privacy-first subscription tracker to keep spending in check (Next.js + Convex + Polar).
 - **[Zermind](https://zermind.ai)** - Open-source AI conversation platform (Nextjs + Convex).
 - **[Fidotrail](https://fidotrail.com)** - Dog-first, curated trail guide with verified dog facts and fast filters (Expo + Convex).
